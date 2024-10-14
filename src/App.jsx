@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react"
 import TodoInput from "./assets/components/Todoinput"
+import TodoInput from "./assets/components/TodoInput"
 import TodoList from "./assets/components/TodoList"
 
 function App() {
